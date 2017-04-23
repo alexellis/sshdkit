@@ -1,0 +1,7 @@
+sshd-bzImage
+sshd-cmdline
+sshd-efi.iso
+sshd-initrd.img
+sshd.iso
+sshd.yml
+
