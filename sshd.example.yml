@@ -46,7 +46,3 @@ trust:
 files:
   - path: root/.ssh/authorized_keys
     contents: "# copy your id_rsa.pub contents here"
-outputs:
-  - format: kernel+initrd
-  - format: iso-bios
-  - format: iso-efi
